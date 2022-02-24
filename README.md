@@ -49,7 +49,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Kyle
-
+![confused gif from giphy.com](https://media.giphy.com/media/4JVTF9zR9BicshFAb7/giphy-downsized.gif)
 
 ### Kyongmin
 
