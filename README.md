@@ -16,3 +16,60 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 I will either accept your pull request, or send you feedback on what you need to do to improve!
 
 ## Find Your Name Below!
+
+### Lindsey
+
+
+### David
+
+
+### Daniel
+
+
+### Alice
+
+
+### Cameron
+
+
+### Greg
+
+
+### Hanis
+
+
+### Jawwad
+
+
+### Jordan
+
+
+### Kyle
+
+
+### Kyongmin
+
+
+### Luke
+
+
+### Marshall
+
+
+### Meir
+
+
+### Nish
+
+
+### Saad
+
+
+### Tyler
+
+
+### Xiaohua
+
+
+### Zachary
+
