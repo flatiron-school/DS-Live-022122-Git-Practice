@@ -35,7 +35,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Greg
-
+![distracted gif from tenor.com](https://c.tenor.com/FFu2r5pAGS0AAAAC/adhd-distracted.gif)
 
 ### Hanis
 
