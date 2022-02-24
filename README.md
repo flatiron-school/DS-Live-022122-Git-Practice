@@ -61,7 +61,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Nish
-
+![When you think its Friday but it's only Thursday](https://media.giphy.com/media/XMKn7LELqTLvW/giphy.gif)
 
 ### Saad
 
