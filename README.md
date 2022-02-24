@@ -75,7 +75,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Xiaohua
-
+![Everything's Fine by a cartoon dog](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 ### Zachary
 ![Doing my best](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy-downsized.gif)
