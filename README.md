@@ -53,6 +53,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Luke
 
+![tony soprano eating dinner gif](https://media.giphy.com/media/bodHdFtqWbJDi/giphy.gif)
 
 ### Marshall
 
