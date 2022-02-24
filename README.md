@@ -19,7 +19,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Lindsey
 
-![it's only thursday spice girls gif from giphy](https://media.giphy.com/media/2AN8tynVUEkVRrpSEe/giphy.gif)
+![thursday morning gif showing an ostrich from giphy](https://media.giphy.com/media/vP6Qw7bGlpptyQ2jD7/giphy-downsized.gif)
 
 ### David
 
