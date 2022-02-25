@@ -30,7 +30,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![cat slide gif from giphy](https://media.giphy.com/media/3o85xqZZ20Sk51USTC/giphy.gif)
 
 ### Alice
-
+![drinking coffee straight from the tap gif from giphy](https://media.giphy.com/media/3oriO04qxVReM5rJEA/giphy.gif)
 
 ### Cameron
 
