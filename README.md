@@ -23,6 +23,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### David
 
+![TGIF!!!!  ADULT BEVERAGES!!](https://media.giphy.com/media/AOgwrHx4o49v2ZisoR/giphy-downsized.gif)
 
 ### Daniel
 
