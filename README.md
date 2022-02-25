@@ -65,7 +65,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![Polar Bear sliding face against the ground gif](https://media.giphy.com/media/8uBI4YjfZWXlu/giphy.gif)
 
 ### Meir
-![almost thursday](https://giphy.com/clips/studiosoriginals-thursday-thRGkvtih0g3jgUTPt)
+![almost thursday](https://media.giphy.com/media/3o7aD7KLo6jJF4VBhS/giphy.gif)
 
 ### Nish
 ![When you think its Friday but it's only Thursday](https://media.giphy.com/media/XMKn7LELqTLvW/giphy.gif)
