@@ -52,7 +52,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Kyongmin
-<i>My relationship with git summed up.<i>
+<i>My relationship with git summed up.</i>
 ![My relationship with git](https://media.giphy.com/media/jwKC0qlOoXmcLDB4vC/giphy-downsized.gif)
 
 ### Luke
