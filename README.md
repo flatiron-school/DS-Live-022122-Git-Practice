@@ -47,7 +47,7 @@ I will either accept your pull request, or send you feedback on what you need to
 )
 
 ### Jordan
-
+![Is it Friday yet gif from giphy](https://media.giphy.com/media/sIXz0dfbPKg2xYy33S/giphy.gif)
 
 ### Kyle
 ![confused gif from giphy.com](https://media.giphy.com/media/4JVTF9zR9BicshFAb7/giphy-downsized.gif)
