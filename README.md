@@ -71,7 +71,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ![When you think its Friday but it's only Thursday](https://media.giphy.com/media/XMKn7LELqTLvW/giphy.gif)
 
 ### Saad
-
+![When you get stuck in VIM on git bash... again!](https://media.giphy.com/media/tJZIYxsfFPs4/giphy.gif)
 
 ### Tyler
 ![Explain this to me like I'm 5](https://media.giphy.com/media/5wWf7H89PisM6An8UAU/giphy-downsized.gif)
